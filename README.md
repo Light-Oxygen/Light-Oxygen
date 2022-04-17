@@ -18,7 +18,7 @@ Les langages que j'utilise au quotidien sont :
 #### Contact
 Je suis joignable par :
 * E-mail: ops.lightoxygen@gmail.com
-* Discord: • Florian •#9999 
+* Discord: LightOxygen#7525
 * Twitter : [LightOxygen_](https://www.twitter.com/LightOxygen_)
 
 <!--
