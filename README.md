@@ -14,7 +14,7 @@ Je suis LightOxygen.
 
 #### Contact
 * E-mail: ops.lightoxygen@gmail.com
-* Discord: LightOxygen#7525
+* Discord: LightOxygen#9999
 * Twitter : [LightOxygen_](https://www.twitter.com/LightOxygen_)
 
 <!--
