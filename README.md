@@ -7,7 +7,7 @@ Je suis LightOxygen.
 * Français
 * Espagnol
 
-#### Laguages utilisés
+#### Languages utilisés
 * Java 
 * Kotlin
 * C 
